@@ -1,4 +1,4 @@
-,codigoestacion,codigosensor,fechaobservacion,valorobservado,nombreestacion,departamento,municipio,zonahidrografica,latitud,longitud,descripcionsensor,unidadmedida
+id,codigoestacion,codigosensor,fechaobservacion,valorobservado,nombreestacion,departamento,municipio,zonahidrografica,latitud,longitud,descripcionsensor,unidadmedida
 0,0026155230,0068,2012-01-18T20:00:00.000,0,EMAS - AUT,CALDAS,MANIZALES,CAUCA,5.08525,-75.50713889,Temp Aire 2 m,°C
 1,0023125501,0068,2018-08-17T23:55:00.000,19.41672,PAUNA  - AUT,BOYACÁ,PAUNA,MEDIO MAGDALENA,5.657130556,-73.96032778,Temp Aire 2 m,°C
 2,0026145090,0068,2018-02-03T00:00:00.000,16.3,SANTA EMILIA - AUT,RISARALDA,BELÉN DE UMBRÍA,CAUCA,5.207472222,-75.90294444,Temp Aire 2 m,°C
